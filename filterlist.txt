@@ -1,0 +1,72 @@
+[Adblock Plus 2.0]
+! Title: Let Swyrin Cook 🔥🔥🔥🔥
+! Description: Some *opinionated* filters for **my own** web surfing experience.
+! Homepage: https://github.com/swyrin/my-ubo-list
+! Updated: 16 April 2025
+
+! Gmail: loading animation
+mail.google.com###loading > div
+
+! Fandom: bloat
+fandom.com##.notifications-placeholder
+fandom.com##.page__right-rail
+fandom.com##.wikia-bar-anon.wikia-bar
+fandom.com##.global-top-navigation__fandom-logo.wds-icon
+fandom.com##.global-explore-navigation__button.wds-avatar--square.wds-avatar
+fandom.com##[href="https://www.fandom.com/fancentral/home"].wds-avatar--square.wds-avatar
+fandom.com##.wds-viewability-slider.WikiaRail.right-rail-wrapper
+
+! Reddit: Hide All Poster Achievement Flairs
+reddit.com##community-achievements-flair:has([alt$="Poster"])
+reddit.com##community-achievements-flair:has([alt$="Commenter"])
+
+! YouTube: Hide member-only videos
+youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.badge-style-type-members-only)
+youtube.com##:is(ytd-rich-item-renderer,ytd-compact-video-renderer,ytd-video-renderer,ytd-grid-video-renderer):has(.badge-style-type-members-only)
+
+! GitHub: Copilot & Friends
+github.com##.copilotPreview__container
+github.com##.dashboard > h2
+github.com##.AppHeader-CopilotChat
+github.com##.AskCopilotButton-module__square--o-2kDO
+github.com##.css-truncate > p
+github.com##li.prc-ActionList-ActionListItem-uq6I7:nth-of-type(5)   ! Copilot menu
+github.com##li.prc-ActionList-ActionListItem-uq6I7:nth-of-type(15)  ! Try Enterprise
+
+[Adblock Plus 2.0]
+! Title: Let Swyrin Cook 🔥🔥🔥🔥
+! Description: Some *opinionated* filters for **my own** web surfing experience.
+! Homepage: https://github.com/swyrin/my-ubo-list
+! Updated: 16 April 2025
+
+! Gmail: loading animation
+mail.google.com###loading > div
+
+! Fandom: bloat
+fandom.com##.notifications-placeholder
+fandom.com##.page__right-rail
+fandom.com##.wikia-bar-anon.wikia-bar
+fandom.com##.global-top-navigation__fandom-logo.wds-icon
+fandom.com##.global-explore-navigation__button.wds-avatar--square.wds-avatar
+fandom.com##[href="https://www.fandom.com/fancentral/home"].wds-avatar--square.wds-avatar
+fandom.com##.wds-viewability-slider.WikiaRail.right-rail-wrapper
+
+! Reddit: Hide All Poster Achievement Flairs
+reddit.com##community-achievements-flair:has([alt$="Poster"])
+reddit.com##community-achievements-flair:has([alt$="Commenter"])
+
+! YouTube: Hide member-only videos
+youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.badge-style-type-members-only)
+youtube.com##:is(ytd-rich-item-renderer,ytd-compact-video-renderer,ytd-video-renderer,ytd-grid-video-renderer):has(.badge-style-type-members-only)
+
+! GitHub: Copilot & Friends
+github.com##.copilotPreview__container
+github.com##.dashboard > h2
+github.com##.AppHeader-CopilotChat
+github.com##.prc-Button-IconButton-szpyj.AskCopilotButton-module__square--o8kDO.prc-Button-ButtonBase-c50BIgithub.com##.css-truncate > p
+! Your Copilot
+github.com##li.prc-ActionList-ActionListItem-uq6I7:nth-of-type(5)
+! Try Enterprise
+github.com##li.prc-ActionList-ActionListItem-uq6I7:nth-of-type(15)
+! Ask Copilot about this file.
+github.com##li.prc-ActionList-Group-fXpF9:nth-of-type(8)
