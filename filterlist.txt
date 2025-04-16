@@ -20,6 +20,20 @@ fandom.com##.wds-viewability-slider.WikiaRail.right-rail-wrapper
 reddit.com##community-achievements-flair:has([alt$="Poster"])
 reddit.com##community-achievements-flair:has([alt$="Commenter"])
 
+! Reddit: Top sections
+reddit.com##left-nav-top-section
+
+! Reddit: Resources
+reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > nav
+reddit.com###RESOURCES
+
+! Reddit: Right panel
+reddit.com##.right-sidebar
+
+! Reddit: Top bar buttons
+reddit.com###advertise-button
+reddit.com##create-post-entry-point-wrapper
+
 ! YouTube: Hide member-only videos
 youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.badge-style-type-members-only)
 youtube.com##:is(ytd-rich-item-renderer,ytd-compact-video-renderer,ytd-video-renderer,ytd-grid-video-renderer):has(.badge-style-type-members-only)
