@@ -25,13 +25,10 @@ youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.badge-style-type
 youtube.com##:is(ytd-rich-item-renderer,ytd-compact-video-renderer,ytd-video-renderer,ytd-grid-video-renderer):has(.badge-style-type-members-only)
 
 ! GitHub: Copilot & Friends
-github.com##.copilotPreview__container
-github.com##.dashboard > h2
-github.com##.AppHeader-CopilotChat
-github.com##.prc-Button-IconButton-szpyj.AskCopilotButton-module__square--o8kDO.prc-Button-ButtonBase-c50BIgithub.com##.css-truncate > p
-! Your Copilot
+github.com##.prc-Button-IconButton-szpyj.AskCopilotButton-module__square--o8kDO.prc-Button-ButtonBase-c50BI
 github.com##li.prc-ActionList-ActionListItem-uq6I7:nth-of-type(5)
-! Try Enterprise
 github.com##li.prc-ActionList-ActionListItem-uq6I7:nth-of-type(15)
-! Ask Copilot about this file.
 github.com##li.prc-ActionList-Group-fXpF9:nth-of-type(8)
+github.com##.js-updatable-content.js-socket-channel.position-relative.js-discussion-sidebar-item.sidebar-assignee.discussion-sidebar-item > .js-issue-sidebar-form > .css-truncate > p
+github.com##.DiffHeaderAskCopilotButton-module__askCopilotButton--XnBQK
+github.com##button.btn-link.dropdown-item.px-5:nth-of-type(1)
