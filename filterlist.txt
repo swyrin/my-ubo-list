@@ -2,7 +2,7 @@
 ! Title: Let Swyrin Cook 🔥🔥🔥🔥
 ! Description: Some *opinionated* filters for **my own** web surfing experience.
 ! Homepage: https://github.com/swyrin/my-ubo-list
-! Updated: 16 April 2025
+! Updated: 17 April 2025
 
 ! Gmail: loading animation
 mail.google.com###loading > div
@@ -46,3 +46,4 @@ github.com##li.prc-ActionList-Group-fXpF9:nth-of-type(8)
 github.com##.js-updatable-content.js-socket-channel.position-relative.js-discussion-sidebar-item.sidebar-assignee.discussion-sidebar-item > .js-issue-sidebar-form > .css-truncate > p
 github.com##.DiffHeaderAskCopilotButton-module__askCopilotButton--XnBQK
 github.com##button.btn-link.dropdown-item.px-5:nth-of-type(1)
+github.com##.Box-sc-g0xbh4-0.biWYdz
