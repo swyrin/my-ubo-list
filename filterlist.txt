@@ -40,6 +40,9 @@ github.com##.prc-Button-IconButton-szpyj.AskCopilotButton-module__square--o8kDO.
 github.com##li.prc-ActionList-ActionListItem-uq6I7:nth-of-type(5)
 github.com##li.prc-ActionList-ActionListItem-uq6I7:nth-of-type(15)
 github.com##li.prc-ActionList-Group-fXpF9:nth-of-type(8)
+github.com##.Box-sc-g0xbh4-0.biWYdz
+github.com###copilot-md-menu-anchor-new_comment_field
+github.com##li.d-inline-flex.flex-1.hx_tabnav-in-dropdown-wrapper:nth-of-type(3)
 github.com##.js-updatable-content.js-socket-channel.position-relative.js-discussion-sidebar-item.sidebar-assignee.discussion-sidebar-item > .js-issue-sidebar-form > .css-truncate > p
 github.com##.DiffHeaderAskCopilotButton-module__askCopilotButton--XnBQK
 github.com##button.btn-link.dropdown-item.px-5:nth-of-type(1)
