@@ -54,6 +54,7 @@ youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.badge-style-type
 youtube.com##:is(ytd-rich-item-renderer,ytd-compact-video-renderer,ytd-video-renderer,ytd-grid-video-renderer):has(.badge-style-type-members-only)
 
 ! GitHub: Copilot & Friends
+github.com###dashboard > h1
 github.com##.prc-Button-IconButton-szpyj.AskCopilotButton-module__square--o8kDO.prc-Button-ButtonBase-c50BI
 github.com##li.prc-ActionList-ActionListItem-uq6I7:nth-of-type(5)
 github.com##li.prc-ActionList-ActionListItem-uq6I7:nth-of-type(15)
