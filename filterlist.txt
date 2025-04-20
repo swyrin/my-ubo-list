@@ -2,7 +2,7 @@
 ! Title: Let Swyrin Cook 🔥🔥🔥🔥
 ! Description: Some *opinionated* filters for **my own** web surfing experience.
 ! Homepage: https://github.com/swyrin/my-ubo-list
-! Updated: 17 April 2025
+! Updated: 20 April 2025
 
 ! Gmail: loading animation
 mail.google.com###loading > div
