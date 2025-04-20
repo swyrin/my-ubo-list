@@ -27,9 +27,6 @@ reddit.com##left-nav-top-section
 reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > nav
 reddit.com###RESOURCES
 
-! Reddit: Right panel
-reddit.com##.right-sidebar
-
 ! Reddit: Top bar buttons
 reddit.com###advertise-button
 reddit.com##create-post-entry-point-wrapper
