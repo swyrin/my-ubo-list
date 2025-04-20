@@ -31,6 +31,15 @@ reddit.com###RESOURCES
 reddit.com###advertise-button
 reddit.com##create-post-entry-point-wrapper
 
+! Reddit: Advertise on Reddit & Try Reddit Pro
+reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(2)
+
+! Reddit: Reddit Premium
+reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(4)
+
+! Reddit: Contributor Program
+reddit.com##[href="/contributor-program/profile"]
+
 ! YouTube: Hide member-only videos
 youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.badge-style-type-members-only)
 youtube.com##:is(ytd-rich-item-renderer,ytd-compact-video-renderer,ytd-video-renderer,ytd-grid-video-renderer):has(.badge-style-type-members-only)
