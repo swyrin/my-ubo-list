@@ -3,7 +3,7 @@
 ! Description: Some crowdsourced and *opinionated* filters for **my own** web surfing experience, YMMV.
 ! Homepage: https://github.com/swyrin/my-ubo-list
 ! Expires: 4 days (update frequency)
-! Version: 20 April 2025
+! Version: 10 May 2025
 ! Syntax: AdBlock
 
 ! Gmail: loading animation
@@ -47,7 +47,14 @@ reddit.com##.left-nav-create-community-button.mt-0.list-none.relative
 
 ! Reddit: Leftover Dividers
 reddit.com##hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(1)
+reddit.com##hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(2)
 reddit.com##hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(3)
+
+! Reddit: Create custom feed
+reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > faceplate-expandable-section-helper:nth-of-type(1)
+
+! Reddit: Chat icon
+reddit.com##.nd\:visible > .h-\[40px\].w-\[40px\].relative > .contents.nd\:visible > .contents.nd\:visible > .inline-flex.button.justify-center.items-center.icon.button-plain.px-\[var\(--rem8\)\].button-medium
 
 ! YouTube: Hide member-only videos
 youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.badge-style-type-members-only)
