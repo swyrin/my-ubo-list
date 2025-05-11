@@ -17,6 +17,11 @@ fandom.com##.global-top-navigation__fandom-logo.wds-icon
 fandom.com##.global-explore-navigation__button.wds-avatar--square.wds-avatar
 fandom.com##[href="https://www.fandom.com/fancentral/home"].wds-avatar--square.wds-avatar
 fandom.com##.wds-viewability-slider.WikiaRail.right-rail-wrapper
+fandom.com##.global-footer
+fandom.com##.global-top-navigation__action-wrapper
+fandom.com###community-navigation > .sign-in.global-action__item > .sign-in__dropdown.wds-dropdown
+fandom.com##div.mpcontent:nth-of-type(4)
+fandom.com##div.mpheader:nth-of-type(3)
 
 ! Reddit: Hide All Poster Achievement Flairs
 reddit.com##community-achievements-flair:has([alt$="Poster"])
