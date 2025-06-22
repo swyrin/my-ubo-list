@@ -3,7 +3,7 @@
 ! Description: Some crowdsourced and *opinionated* filters for **my own** web surfing experience, YMMV.
 ! Homepage: https://github.com/swyrin/my-ubo-list
 ! Expires: 4 days (update frequency)
-! Version: 10 May 2025
+! Version: 22 June 2025
 ! Syntax: AdBlock
 
 ! Gmail: loading animation
